@@ -36,5 +36,6 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
 * **Email:** ekravi26@gmail.com
 * **LinkedIn:** [Your LinkedIn Link]
 
-### Technical Skills
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryukgod26&theme=transparent&layout=compact)
+### ⏱ WakaTime (auto-updates)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
