@@ -36,4 +36,5 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
 * **Email:** ekravi26@gmail.com
 * **LinkedIn:** [Your LinkedIn Link]
 
+### Technical Skills
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
