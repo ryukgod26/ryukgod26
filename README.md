@@ -37,4 +37,4 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
 * **LinkedIn:** [Your LinkedIn Link]
 
 ### Technical Skills
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryukgod26&theme=transparent&layout=compact)
