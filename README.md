@@ -23,6 +23,8 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
   * Interactive Pause Menu and Settings Menu
   * 3D puzzle and combat mechanics
 * **[Repository](https://github.com/ryukgod26/Whispering-Realms)**
+ <img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/f63eec3e-6fcf-4103-91d4-7ba5a38dfeee" />
+
 
 ### 2. Aura Arena
 *A top-down action game featuring dynamic enemy encounters.*
@@ -32,6 +34,8 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
   * Multiple enemy types and varied bullet mechanics
   * Fast-paced combat and wave-based progression
 * **[Repository](https://github.com/ryukgod26/Aura-Arena)**
+  <img width="1091" height="732" alt="image" src="https://github.com/user-attachments/assets/c4ba4a3e-48b3-4bc6-bd46-c414745ba817" />
+
 
 ### 3. Text Editor in Rust
 *A lightweight text editor written from scratch in Rust.*
@@ -41,6 +45,7 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
   * Text highlighting and search functionality
   * Efficient buffer management and UTF-8 handling
 * **[Repository](https://github.com/ryukgod26/Text-Editor-in-rust)**
+<img width="1458" height="671" alt="cpng" src="https://github.com/user-attachments/assets/128b9765-4924-448b-9a09-d38e4d5e5363" />
 
 
 ---
