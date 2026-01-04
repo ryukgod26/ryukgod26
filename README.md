@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Eklavya
 ### Game Developer & CS Student
 **Global Group of Institutes (B.Tech CSE)**
 
@@ -33,5 +33,7 @@ I am a programmer specializing in **Game Logic** and **3D Environments**. I am p
 ---
 
 ### 📫 Contact
-* **Email:** [Your Email]
+* **Email:** ekravi26@gmail.com
 * **LinkedIn:** [Your LinkedIn Link]
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
